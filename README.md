@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VTU27931/PST-TASKS/tree/master/0049-group-anagrams) |
+| [1360-number-of-days-between-two-dates](https://github.com/VTU27931/PST-TASKS/tree/master/1360-number-of-days-between-two-dates) |
 | [2418-sort-the-people](https://github.com/VTU27931/PST-TASKS/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VTU27931/PST-TASKS/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/VTU27931/PST-TASKS/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
