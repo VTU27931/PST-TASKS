@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VTU27931/PST-TASKS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2418-sort-the-people](https://github.com/VTU27931/PST-TASKS/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/VTU27931/PST-TASKS/tree/master/2418-sort-the-people) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VTU27931/PST-TASKS/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
