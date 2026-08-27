@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VTU27931/PST-TASKS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/VTU27931/PST-TASKS/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/VTU27931/PST-TASKS/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/VTU27931/PST-TASKS/tree/master/0918-maximum-sum-circular-subarray) |
 | [2418-sort-the-people](https://github.com/VTU27931/PST-TASKS/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VTU27931/PST-TASKS/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/VTU27931/PST-TASKS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/VTU27931/PST-TASKS/tree/master/1360-number-of-days-between-two-dates) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/VTU27931/PST-TASKS/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/VTU27931/PST-TASKS/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/VTU27931/PST-TASKS/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
