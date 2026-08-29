@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VTU27931/PST-TASKS/tree/master/0347-top-k-frequent-elements) |
+| [1603-design-parking-system](https://github.com/VTU27931/PST-TASKS/tree/master/1603-design-parking-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/VTU27931/PST-TASKS/tree/master/0918-maximum-sum-circular-subarray) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/VTU27931/PST-TASKS/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/VTU27931/PST-TASKS/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
