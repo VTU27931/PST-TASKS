@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/VTU27931/PST-TASKS/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/VTU27931/PST-TASKS/tree/master/0347-top-k-frequent-elements) |
+| [1396-design-underground-system](https://github.com/VTU27931/PST-TASKS/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/VTU27931/PST-TASKS/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VTU27931/PST-TASKS/tree/master/0049-group-anagrams) |
 | [1360-number-of-days-between-two-dates](https://github.com/VTU27931/PST-TASKS/tree/master/1360-number-of-days-between-two-dates) |
+| [1396-design-underground-system](https://github.com/VTU27931/PST-TASKS/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/VTU27931/PST-TASKS/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/VTU27931/PST-TASKS/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/VTU27931/PST-TASKS/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
