@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VTU27931/PST-TASKS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/VTU27931/PST-TASKS/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/VTU27931/PST-TASKS/tree/master/0347-top-k-frequent-elements) |
+| [0705-design-hashset](https://github.com/VTU27931/PST-TASKS/tree/master/0705-design-hashset) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VTU27931/PST-TASKS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1472-design-browser-history](https://github.com/VTU27931/PST-TASKS/tree/master/1472-design-browser-history) |
 | [2418-sort-the-people](https://github.com/VTU27931/PST-TASKS/tree/master/2418-sort-the-people) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/VTU27931/PST-TASKS/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/VTU27931/PST-TASKS/tree/master/0347-top-k-frequent-elements) |
+| [0705-design-hashset](https://github.com/VTU27931/PST-TASKS/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/VTU27931/PST-TASKS/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/VTU27931/PST-TASKS/tree/master/2418-sort-the-people) |
 ## String
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/VTU27931/PST-TASKS/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/VTU27931/PST-TASKS/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/VTU27931/PST-TASKS/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/VTU27931/PST-TASKS/tree/master/1603-design-parking-system) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/VTU27931/PST-TASKS/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/VTU27931/PST-TASKS/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/VTU27931/PST-TASKS/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/VTU27931/PST-TASKS/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
