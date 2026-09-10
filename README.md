@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/VTU27931/PST-TASKS/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/VTU27931/PST-TASKS/tree/master/0049-group-anagrams) |
 | [1360-number-of-days-between-two-dates](https://github.com/VTU27931/PST-TASKS/tree/master/1360-number-of-days-between-two-dates) |
 | [1396-design-underground-system](https://github.com/VTU27931/PST-TASKS/tree/master/1396-design-underground-system) |
