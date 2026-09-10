@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/VTU27931/PST-TASKS/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/VTU27931/PST-TASKS/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VTU27931/PST-TASKS/tree/master/0918-maximum-sum-circular-subarray) |
+| [1314-matrix-block-sum](https://github.com/VTU27931/PST-TASKS/tree/master/1314-matrix-block-sum) |
 | [1472-design-browser-history](https://github.com/VTU27931/PST-TASKS/tree/master/1472-design-browser-history) |
 | [2418-sort-the-people](https://github.com/VTU27931/PST-TASKS/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -129,4 +130,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/VTU27931/PST-TASKS/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/VTU27931/PST-TASKS/tree/master/1314-matrix-block-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/VTU27931/PST-TASKS/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
