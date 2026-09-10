@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VTU27931/PST-TASKS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/VTU27931/PST-TASKS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VTU27931/PST-TASKS/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/VTU27931/PST-TASKS/tree/master/0347-top-k-frequent-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VTU27931/PST-TASKS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/VTU27931/PST-TASKS/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/VTU27931/PST-TASKS/tree/master/0049-group-anagrams) |
 | [1360-number-of-days-between-two-dates](https://github.com/VTU27931/PST-TASKS/tree/master/1360-number-of-days-between-two-dates) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/VTU27931/PST-TASKS/tree/master/1314-matrix-block-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VTU27931/PST-TASKS/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
