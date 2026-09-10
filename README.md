@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VTU27931/PST-TASKS/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VTU27931/PST-TASKS/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/VTU27931/PST-TASKS/tree/master/0705-design-hashset) |
+| [0867-transpose-matrix](https://github.com/VTU27931/PST-TASKS/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VTU27931/PST-TASKS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1472-design-browser-history](https://github.com/VTU27931/PST-TASKS/tree/master/1472-design-browser-history) |
 | [2418-sort-the-people](https://github.com/VTU27931/PST-TASKS/tree/master/2418-sort-the-people) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/VTU27931/PST-TASKS/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/VTU27931/PST-TASKS/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/VTU27931/PST-TASKS/tree/master/1600-throne-inheritance) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/VTU27931/PST-TASKS/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
