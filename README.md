@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VTU27931/PST-TASKS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/VTU27931/PST-TASKS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VTU27931/PST-TASKS/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/VTU27931/PST-TASKS/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VTU27931/PST-TASKS/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/VTU27931/PST-TASKS/tree/master/0705-design-hashset) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VTU27931/PST-TASKS/tree/master/0918-maximum-sum-circular-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VTU27931/PST-TASKS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/VTU27931/PST-TASKS/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
